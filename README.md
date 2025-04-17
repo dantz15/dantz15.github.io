@@ -9,8 +9,7 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
+This will be Dantz15 blog talking about continous learning journey in programming stuffs in Azure, Terraform, .NET and Angular
 </header>
 
 <!--
